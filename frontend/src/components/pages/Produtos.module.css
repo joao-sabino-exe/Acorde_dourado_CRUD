@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Lusitana&display=swap');
+
+.centralizarProd{
+    min-width: 390px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    padding-left: 0px;
+}
+.cards{
+    
+    background-color: rgba(255, 255, 240, 0.822);
+    min-width: 480px;
+}
+.container1{
+    display: flex;
+    justify-content: center;
+}
+
+.card1{
+        width: 330px;
+        height: 530px;
+        border-radius: 15px;
+        background-color: #202020;
+        margin-top: 20px;
+        margin-bottom: 20px;
+        transition: 0.2s;
+}
+
+.card1:hover{
+    box-shadow: 4px 4px 4px rgb(109, 109, 109);
+    transition: 0.2s;
+}
+
+.desc1{
+    font-family: 'Lusitana', serif;
+    color: white;
+    font-weight: 100%;
+    text-align: center;
+    font-size: 105%;
+    max-width: 250px;
+    margin: auto;
+}
+
+.text_title1{
+    font-family: 'Lusitana', serif;
+    text-align: center;
+    color: white;
+    font-weight: 100%;
+    font-size: 160%;
+}
+
+.btn1{
+    padding: 4% 12%;
+    font-family: 'Lusitana', serif;
+    font-size: 90%;
+    font-weight: 100%;
+    border-radius: 10px;
+    border: none;
+    transition: 0.5s;
+    background-color: #e78e40;
+}
+
+.btn1:hover{
+    transition: 0.5s;
+    background-color: #b6610c;
+    cursor: pointer;
+}
+
+.ajusteBtn{
+    margin-top: 50px;
+}
+
+.button1{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+
+.container2{
+    display: flex;
+    justify-content: center;
+}
+
+.imagem1{
+    display: flex;
+    justify-content: center;
+}
+
+.Violao{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 7%;
+}
+
+
