@@ -48,4 +48,5 @@ Giovanna Antunes Baptista</p>
 <img src="https://user-images.githubusercontent.com/96800895/198886558-a5d5cefa-12b4-4bc7-b629-1601ebf1bdbf.png"/>
 <img src="https://user-images.githubusercontent.com/96800895/198886567-90744554-d81e-47c2-a1de-18c2a7209113.png"/>
 
-<p><strong>Lista:</strong> É uma página dedicada a lista de desejo de instrumentos que o cliente deseja.</p>
+<p><strong>Lista:</strong> É uma página dedicada a lista de desejos que o cliente deseja adquirir, aqui foi feito um CRUD permitindo que o cliente insira, altere, exclua e veja as informaçoes inseridas.</p>
+<img src="https://user-images.githubusercontent.com/96800895/204070310-11121ae1-58e2-4b0b-917e-0869485cadd8.png">
