@@ -13,13 +13,15 @@ Gustavo Henrique Pexe Sforça,
 <br/>
 Giovanna Antunes Baptista</p>
 
-<p><strong>Link para acessar o site: </strong>https://acorde-dourado.herokuapp.com/</p>
+<p>Para rodar o projeto em sua maquina é necessário estar com o node.js instalado em sua maquina, abrir o arquivo em sua IDE (utilizamos o Visual Studio Code), no prompt de comando digitar <strong>"npm install latest"</strong>, <strong>"npm install react-scripts --save"</strong> e após terminar de instalar, ainda no prompt, digitar <strong>"npm start"</strong> e uma pagina será aberta automaticamente!</p>
 
-<h3>Para rodar o projeto em sua maquina é necessário estar com o node.js instalado em sua maquina, abrir o arquivo em sua IDE (utilizamos o Visual Studio Code), no prompt de comando digitar "npm install" e após terminar de instalar, ainda no prompt, digitar "npm start" e uma pagina será aberta automaticamente!</h3>
+<p>Para rodar o backend é necessario rodar o comando <strong>"yarn add express nodemon mysql cors"</strong> e apos rodar isso é necessario digitar <strong>"yarn start"</strong>.</p>
 
-<h3>O site foi feito a partir do framework <strong>React</strong> que foi utilizado para navegar entre as paginas sendo elas <strong>Home</strong> , <strong>Produtos</strong>, <strong>Empresa</strong>, <strong>Contatos</strong>,  <strong>Cadastre-se</strong>.</h3>
+<p>O site foi feito a partir do framework <strong>React</strong> que foi utilizado para navegar entre as paginas sendo elas <strong>Home</strong> , <strong>Produtos</strong>, <strong>Empresa</strong>, <strong>Contatos</strong>,  <strong>Cadastre-se</strong>, <strong>Lista</strong>.</p>
 
-<h3>Cada página possui sua finalidade especifica assim como:</h3>
+<p>O backend foi feito com o framework <strong>React</strong>, e para o banco de dados foi utilizado mysql.</p>
+
+<p>Cada página possui sua finalidade especifica assim como:</p>
 
 <p><strong>Home:</strong> Página principal do site que explica de maneira resumida a politica da empresa e sua atividade principal.</p>
 <img src="https://user-images.githubusercontent.com/96800895/198886556-2c80b6c1-faca-4945-ade1-f66151bc2279.png"/>
@@ -45,3 +47,5 @@ Giovanna Antunes Baptista</p>
 <img src="https://user-images.githubusercontent.com/96800895/198886556-2c80b6c1-faca-4945-ade1-f66151bc2279.png"/>
 <img src="https://user-images.githubusercontent.com/96800895/198886558-a5d5cefa-12b4-4bc7-b629-1601ebf1bdbf.png"/>
 <img src="https://user-images.githubusercontent.com/96800895/198886567-90744554-d81e-47c2-a1de-18c2a7209113.png"/>
+
+<p><strong>Lista:</strong> É uma página dedicada a lista de desejo de instrumentos que o cliente deseja.</p>
